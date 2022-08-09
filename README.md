@@ -13,9 +13,12 @@ Il nécessite l’utilisation du fichier modele_scoring.sav contenant notre mod�
 
 
 Dans chacun des fichiers de déploiement, les modifications à réaliser sont :
+
 ●	Modifier le chemin du répertoire contenant les fichiers dans la commande os.chdir()
+
 ●	Modifier le nom de la base de déploiement dans la variable name_data
 
 
 Les autres fichiers .ipynb sont les modèles que nous avons développés afin de déterminer le modèle le plus performant.
+
 Notre rapport se trouve dans le fichier Rapport_Projet_DATA_MINING_CARRIE_REGAZZETTI.pdf.
